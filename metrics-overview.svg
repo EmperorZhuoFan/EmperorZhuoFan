@@ -30,11 +30,11 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#03001c" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#03001c" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="773.9314062386915" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="773.9314062386915" y="0" width="107.01963088948396" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="880.9510371281755" y="0" width="38.916858941883184" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="919.8678960700587" y="0" width="0.13210392994137657" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="766.2940879880825" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="766.2940879880825" y="0" width="105.96353861363491" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="872.2576266017174" y="0" width="47.61157309776743" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="919.8691996994849" y="0" width="0.1308003005150663" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>84.12%</div>
+                                <div>83.29%</div>
                             </small>
                         </div>
                     </section>
@@ -247,7 +247,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>11.63%</div>
+                                <div>11.52%</div>
                             </small>
                         </div>
                     </section>
@@ -260,7 +260,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>4.23%</div>
+                                <div>5.18%</div>
                             </small>
                         </div>
                     </section>
@@ -299,7 +299,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2026, 07:06:26 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2026, 06:53:06 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
